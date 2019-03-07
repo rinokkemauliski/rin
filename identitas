@@ -1,0 +1,8 @@
+public class halo {
+    public static void main(String[] args) {
+        System.out.println("Nama     : Rin Okke Mauliski");
+        System.out.println("Nim      : 17090130");
+        System.out.println("Kelas    : 4A");
+    }
+    
+}
